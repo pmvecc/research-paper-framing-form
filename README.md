@@ -4,6 +4,8 @@ A simple online form to help researchers structure their journal article ideas b
 
 This tool helps clarify the title, thesis, contribution, data, and intended audience, then converts the answers as a markdown file for further refinement.
 
+The user may provide this information to a chosen LLM to generate draft sections and journal ideas, or use the results to manually iterate their ideas.
+
 ---
 
 ## Purpose
