@@ -18,8 +18,9 @@ If you struggle to turn early ideas into well-framed papers that fit journal exp
 
 ---
 
-## How It Works
+## Installation and Usage
 
-1. Open the web form locally
-2. Fill in the fields
-3. Click **Export as Markdown** to save the results.
+1. Clone this repository to your local machine
+2. Open `index.html` in your browser
+3. Fill in the fields
+4. Click **Export as Markdown** to save the results
